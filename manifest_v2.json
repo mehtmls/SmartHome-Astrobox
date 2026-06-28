@@ -1,0 +1,37 @@
+{
+  "item": {
+    "id": "",
+    "restype": "watchface",
+    "name": "Smart Home",
+    "description": "一款集成了米环管理的Lua表盘工具箱",
+    "preview": [
+      "media/headImg.png",
+      "media/ezgif.com-gif-to-sprite-converter.jpg",
+      "media/screenShot_1779541474.png",
+      "media/screenShot_1779541449.png",
+      "media/screenShot_1779541431.png",
+      "media/screenShot_1779541400.png",
+      "media/screenShot_1779541317.png"
+    ],
+    "icon": "",
+    "cover": "media/headImg.png",
+    "author": [
+      {
+        "name": "淘汰郎",
+        "bindABAccount": true
+      }
+    ]
+  },
+  "links": [],
+  "downloads": {
+    "xmb9": {
+      "version": "2026 06-28",
+      "file_name": "downloads/[Band9]SmartHome.face"
+    },
+    "xmb9p": {
+      "version": "2026 06-28",
+      "file_name": "downloads/[BandPRO]SmartHome.face"
+    }
+  },
+  "ext": {}
+}
