@@ -17,7 +17,8 @@
     "cover": "media/headImg.png",
     "author": [
       {
-        "name": "淘汰郎",
+        "name": "ttl",
+        "display_name":"淘汰郎",
         "bindABAccount": true
       }
     ]
@@ -28,7 +29,7 @@
       "version": "2026 06-28",
       "file_name": "downloads/[Band9]SmartHome.face"
     },
-    "xmb9p": {
+    "xmb10p": {
       "version": "2026 06-28",
       "file_name": "downloads/[BandPRO]SmartHome.face"
     }
