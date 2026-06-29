@@ -26,11 +26,15 @@
   "links": [],
   "downloads": {
     "xmb9": {
-      "version": "2026 06-28",
+      "version": "2026 06-29",
       "file_name": "downloads/[Band9]SmartHome.face"
     },
+    "xmb9p": {
+      "version": "2026 06-29",
+      "file_name": "downloads/[BandPRO]SmartHome.face"
+    },
     "xmb10p": {
-      "version": "2026 06-28",
+      "version": "2026 06-29",
       "file_name": "downloads/[BandPRO]SmartHome.face"
     }
   },
